@@ -1,0 +1,14 @@
+{
+  "PREFIX": "+",
+  "TOKEN": "",
+  "OWNER_ID": "400312487037108226",
+  "CLIENT_ID": "",
+  "GUILD_ID": "678580233812705321",
+  "NODES": [
+    {
+      "host": "kartadharta.xyz",
+      "port": 3000,
+      "password": "kdlavalink"
+    }
+  ]
+}
